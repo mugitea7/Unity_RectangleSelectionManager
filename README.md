@@ -1,0 +1,2 @@
+# Unity_RectangleSelectionManager
+Unityで矩形選択をできるようにするライブラリ
